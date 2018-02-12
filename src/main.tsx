@@ -34,7 +34,7 @@ const routes = [
     {
         path: "/case",
         getComponent(_: any, cb: any) {
-            System.import('/modules/case/case.tsx')
+            System.import('modules/case/case-view.tsx')
                 .then(loadRoute(cb))
                 .catch(errorLoading)
         }

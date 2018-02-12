@@ -29,11 +29,11 @@ module.exports = {
     externals: {
         // "react": "React",
         // "react-dom": "ReactDOM",
-        "mobx": "mobx",
-        "mobx-react": "mobxReact",
-        "rxjs": "Rx",
-        "styled-components": "styled",
-        'utils/dict': 'dict'
+        // "mobx": "mobx",
+        // "mobx-react": "mobxReact",
+        // "rxjs": "Rx",
+        // "styled-components": "styled",
+        // 'utils/dict': 'dict'
     },
     module: {
         rules: [

@@ -1,6 +1,10 @@
 import * as React from 'react'
+import styled from 'styled-components'
+
+
 
 export const Topbar = function (store: any) {
-    console.log(store)
-    return <div>afaew</div>
+    return <div>
+
+    </div>
 }
